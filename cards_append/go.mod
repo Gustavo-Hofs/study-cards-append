@@ -1,3 +1,3 @@
-module github.com/Gustavo-Hofs/study-cards-append/cards_append/cards.go
+module cards
 
 go 1.20
