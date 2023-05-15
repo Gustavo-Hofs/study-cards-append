@@ -1,3 +1,3 @@
-module github.com/Gustavo-Hofs/Go-benchmark/cards_append/cards
+module github.com/Gustavo-Hofs/study-cards-append/cards_append/cards
 
 go 1.20
